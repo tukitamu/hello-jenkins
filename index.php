@@ -1,2 +1,2 @@
 <?php
-echo "Hello,Jenkins!<br/>"
+echo "Hello,Jenkins!<br/>";
